@@ -9,5 +9,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - Know all the mentioned acronyms: LAMP, SPOF, QPS
 
 ## Simple Web Stack
-![Web Infrastructure drawio](https://github.com/v-dav/holbertonschool-system_engineering-devops/assets/115344057/a81949c1-b937-4d00-9b5d-70cbc52da858)
+![Web Infrastructure](https://github.com/v-dav/holbertonschool-system_engineering-devops/assets/115344057/a81949c1-b937-4d00-9b5d-70cbc52da858)
 
+## Distributed Web Infrastructure
+![Distributed Web Infrastructure](https://github.com/v-dav/holbertonschool-system_engineering-devops/assets/115344057/10650be9-e658-4a33-9a75-b870aaca720e)
