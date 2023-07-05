@@ -13,3 +13,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Distributed Web Infrastructure
 ![Distributed Web Infrastructure](https://github.com/v-dav/holbertonschool-system_engineering-devops/assets/115344057/10650be9-e658-4a33-9a75-b870aaca720e)
+
+## Secured and Monitored Web Infrastructure
+![Secured and monitored Web Infrastructure](https://github.com/v-dav/holbertonschool-system_engineering-devops/assets/115344057/783be6a5-27a7-475f-9c75-59a788a12e44)
+
